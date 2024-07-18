@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "game": {
+    "version": "1.16.5",
+    "modLoader": {
+      "id": "forge-36.2.34",
+      "primary": true
+    }
+  },
+  "name": "Mi Modpack",
+  "version": "1.0.0",
+  "author": "Luis",
+  "files": [
+    {
+      "path": "C:\Users\Luis\Desktop\servidorpaquitpw\.minecraft\mods\comforts-forge-9.0.0+1.21.jar",
+      "hash": "b31fa82fb0e6634a75b6695f618a4899f6fe77d7"
+    },
+    {
+      "path": "C:\Users\Luis\Desktop\servidorpaquitpw\.minecraft\mods\jei-1.21-forge-19.5.0.35.jar",
+      "hash": "fbb6f8539251ea6a94121110052faa46e998f32c"
+    },
+    {
+      "path": "C:\Users\Luis\Desktop\servidorpaquitpw\.minecraft\mods\journeymap-forge-1.21-6.0.0-beta.17.jar",
+      "hash": "24e14a8cab4baae2371d3c39487d4a140cbe6a0a"
+    },
+   
+  ],
+
+}
